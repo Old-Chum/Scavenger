@@ -1,0 +1,16 @@
+[
+{
+  "modid": "scavenger",
+  "name": "Scavenger",
+  "description": "A Seppuku external that incorporated Baritone to automatically find items from chests.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Old Chum"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
